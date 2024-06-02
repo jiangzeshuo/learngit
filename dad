@@ -1,0 +1,35 @@
+[33mcommit 353cadfefa873baef8febd33ee91131cc4c880e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature1[m[33m)[m
+Author: jiangzeshuo <jiangzeshuo@gmail.com>
+Date:   Sun Jun 2 10:16:15 2024 +0800
+
+    AND simple
+
+[33mcommit 32df831cc228cae835fe4bfdcd99b31e05281c3a[m[33m ([m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m
+Author: jiangzeshuo <jiangzeshuo@gmail.com>
+Date:   Sun Jun 2 10:01:36 2024 +0800
+
+    branch test
+
+[33mcommit 377cd08ae691af9c0e798109a1438f1568b61641[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: jiangzeshuo <jiangzeshuo@gmail.com>
+Date:   Sun Jun 2 09:28:48 2024 +0800
+
+    understand how stage works
+
+[33mcommit 83f27240d269f598df3decddf6809fc02e95750f[m
+Author: jiangzeshuo <jiangzeshuo@gmail.com>
+Date:   Sun Jun 2 09:17:54 2024 +0800
+
+    append GPL
+
+[33mcommit 999e89e08d325a0538c50ac09a6a30a215a8fa0a[m
+Author: jiangzeshuo <jiangzeshuo@gmail.com>
+Date:   Sun Jun 2 09:17:08 2024 +0800
+
+    add distributed
+
+[33mcommit 2422315646fdb49b6d598ce411faa1f6fd8bb34a[m
+Author: jiangzeshuo <jiangzeshuo@gmail.com>
+Date:   Sun Jun 2 08:03:47 2024 +0800
+
+    wrote a readme file
